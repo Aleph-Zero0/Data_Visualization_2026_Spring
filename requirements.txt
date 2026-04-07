@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+rdkit
+scikit-learn
+umap-learn
+ipykernel
+plotly
+kaleido
