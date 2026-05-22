@@ -20,4 +20,4 @@ Open <http://localhost:8050> in a browser.
 
 ## Deploy to Render
 
-The repo includes `Procfile` and `runtime.txt`. Render auto-detects them. The default build command (`pip install -r requirements.txt`) and start command (from `Procfile`) work as-is; no overrides needed.
+The repo includes `Procfile` and `.python-version`. Render auto-detects them. The default build command (`pip install -r requirements.txt`) and start command (from `Procfile`) work as-is; no overrides needed.
