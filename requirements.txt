@@ -1,11 +1,19 @@
-numpy
-pandas
-scipy
-matplotlib
-seaborn
-rdkit
-scikit-learn
-umap-learn
-ipykernel
-plotly
-kaleido
+# Notebook + analysis (EDA / story)
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+matplotlib==3.10.8
+seaborn==0.13.2
+rdkit==2026.3.1
+scikit-learn==1.8.0
+umap-learn==0.5.11
+ipykernel==7.2.0
+plotly==6.6.0
+kaleido==1.2.0
+
+# Dashboard (Dash + Render deploy)
+dash==4.1.0
+dash-bootstrap-components==2.0.4
+statsmodels==0.14.6
+pyarrow==24.0.0
+gunicorn==26.0.0
